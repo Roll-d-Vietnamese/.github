@@ -5,6 +5,6 @@ Engineering platform for [Roll'd](https://rolld.com.au) — Australia's largest 
 ## 🔭 What we build
 
 - 📊 **Business Intelligence** — centralised reporting and KPI dashboards across all stores
-- 🤖 **AI Automation** — intelligent workflow automation powered by Claude AI
+- 🤖 **AI Automation** — intelligent workflow automation
 - 📥 **Data Integration** — unified data pipelines connecting operational systems
 
