@@ -8,6 +8,3 @@ Engineering platform for [Roll'd](https://rolld.com.au) — Australia's largest 
 - 🤖 **AI Automation** — intelligent workflow automation powered by Claude AI
 - 📥 **Data Integration** — unified data pipelines connecting operational systems
 
-## ⚙️ Tech stack
-
-AWS | Python | Terraform | Apache Superset | Claude AI
