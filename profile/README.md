@@ -1,8 +1,8 @@
-# Roll'd Vietnamese
+# 🍜 Roll'd Vietnamese
 
 Engineering platform for [Roll'd](https://rolld.com.au) — centralising operational data, automating workflows, and powering business intelligence across 100+ stores.
 
-## Repos
+## 📦 Repos
 
 | Repo | Description |
 |------|-------------|
@@ -11,7 +11,7 @@ Engineering platform for [Roll'd](https://rolld.com.au) — centralising operati
 | [rolld-catering](https://github.com/Roll-d-Vietnamese/rolld-catering) | Automated catering email processor — SES + Claude Haiku parse orders and reply to customers |
 | [rolld-wiki](https://github.com/Roll-d-Vietnamese/rolld-wiki) | Engineering wiki — architecture, data schemas, guides, runbooks |
 
-## Architecture
+## 🏗️ Architecture
 
 ```
 Source Systems              Ingestion                    Query & BI
@@ -24,6 +24,6 @@ CCTV (Uniview NVR)      ──> Raspberry Pi + Lambda   ──>
 Catering emails         ──> SES + Lambda + Claude Haiku ──> Auto-reply to customer
 ```
 
-## Tech stack
+## ⚙️ Tech stack
 
 AWS (Lambda, S3, Athena, Glue, Step Functions, EventBridge, SES) | Python | Terraform | Superset | Claude AI
