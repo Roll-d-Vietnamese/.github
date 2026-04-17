@@ -1,3 +1,5 @@
+<!-- SYNCED from rolld-agent-framework — edit source, not this file. Re-sync with /sync-config. -->
+
 # Contributing
 
 Commit, branch, PR, and merge conventions for all rolld projects.
