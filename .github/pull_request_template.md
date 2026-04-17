@@ -1,3 +1,5 @@
+<!-- SYNCED from rolld-agent-framework — edit source, not this file. Re-sync with /sync-config. -->
+
 ## Context
 
 <!-- Why does this PR exist? What problem does it solve or what opportunity does it address?
