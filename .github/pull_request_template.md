@@ -2,8 +2,7 @@
 
 ## Context
 
-<!-- Why does this PR exist? What problem does it solve or what opportunity does it address?
-     Link to related issues, ADRs, or discussions. -->
+<!-- Why this PR exists. Link to related issues, ADRs, or discussions. -->
 
 ## Changes
 
