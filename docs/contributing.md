@@ -58,7 +58,6 @@ docs/adr-015
   - Changes (files grouped by category)
   - Test plan (specific verification steps)
   - Review notes (trade-offs, risks, follow-ups)
-- **Review:** Minimum 1 review before merge
 
 ## Merge Strategy
 
