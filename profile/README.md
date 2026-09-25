@@ -1,6 +1,6 @@
 # 🍜 Roll'd Vietnamese
 
-Engineering platform for [Roll'd](https://rolld.com.au) — Australia's largest Vietnamese food franchise with 100+ stores nationwide.
+Engineering platform for [Roll'd](https://rolld.com.au) — Australia's largest Vietnamese food franchise, with stores across Australia and New Zealand.
 
 ## 🔭 What we build
 
